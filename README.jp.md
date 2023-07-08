@@ -3,14 +3,12 @@
 ChankoPotはWindowsの設定を行うWpfアプリケーションである。
 
 ## 動作環境
-***
 
 * Windows10
 * .NET 6.0.15以上
 * VisualStudio2022
 
 ## 実行方法
-***
 
 ### Pluginファイル（.dll）作成
 
@@ -21,7 +19,6 @@ ChankoPotはWindowsの設定を行うWpfアプリケーションである。
 実行ファイルを管理者権限で起動。実行ファイルがない場合はChankoPotプロジェクトをビルド。
 
 ## 使用方法
-***
 
 ### UI構成
 
@@ -57,7 +54,6 @@ SettingValueObjectエリア内のSettingValueObjectの設定情報を保存す�
 セーブデータはYaml形式で書き出される。
 
 ## 新しい設定値の作成方法
-***
 
 ### SettingDefinitionクラス
 

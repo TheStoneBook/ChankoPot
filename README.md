@@ -3,14 +3,12 @@
 ChankoPot is a Wpf application for configuring Windows settings.
 
 ## Operating Environment
-***
 
 * Windows10
 * .NET 6.0.15 or later
 * VisualStudio2022
 
 ## Usage
-***
 
 ### Creating Plugin Files (.dll)
 
@@ -21,7 +19,6 @@ Build the "Plugin.Difinition.Basic" project within the solution. This will creat
 Launch the exe file with administrator privileges. If there is no exe file, build the "ChankoPot" project.
 
 ## UI Configuration
-***
 
 The UI consists of two sections, each containing the following elements.
 
@@ -50,7 +47,6 @@ This button applies the values to Windows. Since applying the values requires a 
 This button saves the configuration information of the SettingValueObjects in the SettingValueObject area. The saved data is written in YAML format.
 
 ## Creating New Setting Values
-***
 
 ### SettingDefinition Class
 
