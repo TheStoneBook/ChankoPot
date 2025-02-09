@@ -1,6 +1,7 @@
 # ChankoPot #
 
 ChankoPot is a Wpf application for configuring Windows settings.
+![Demo](chankopotdemo.gif)
 
 ## Operating Environment
 

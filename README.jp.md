@@ -1,6 +1,7 @@
 # ChankoPot #
 
 ChankoPotはWindowsの設定を行うWpfアプリケーションである。
+![Demo](chankopotdemo.gif)
 
 ## 動作環境
 
